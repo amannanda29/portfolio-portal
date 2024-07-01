@@ -2,7 +2,7 @@
 
 ## A Blazing Fast Multipage Portfolio Template for Developers 🚀
 
-## [Demo Link](https://dopefolio.netlify.app) 🔗
+
 
 <div align="center">
   <img src="https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif" alt="Dopefolio Demo" width="100%" />
@@ -17,10 +17,6 @@
 <br/>
 
 ## ( Update ): Project Achievement 🏆 
-
-**Dopefolio** has been listed as the **Hottest Frontend Tool of 2021** According to **CSS Tricks** 🥳. Thanks to all of you for supporting this project 🙌
-
-**[Link to the CSS tricks article on Dopefolio](https://css-tricks.com/hottest-front-end-tools-in-2021/#aa-58-dopefolio)**   
 
 <br/>
 
@@ -55,7 +51,7 @@
 
 ## Test the template with different colors on the playground link 🚀
 
-## [Playground Link](https://dopefolio-playground.netlify.app) 🔗
+
 
 <div align="center">
   <img src="https://i.postimg.cc/xjsqN9GG/ezgif-com-gif-maker-2.gif" alt="Dopefolio Playground" width="100%" />
@@ -124,7 +120,7 @@ Go to `sass/abstracts/_variables.scss` and change the value of this sass variabl
 $themeClrPrimary: #0062b9;
 ```
 
-**NOTE**: I highly recommend to checkout the [Dopefolio Playground Link](https://dopefolio-playground.netlify.app) to test the template with different colors and see which color do you like the most.
+**NOTE**: I highly recommend to checkout the  to test the template with different colors and see which color do you like the most.
 
 <br/>
 
